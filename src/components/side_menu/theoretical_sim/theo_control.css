@@ -1,0 +1,44 @@
+.side_menu {
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 16px;
+  float: left;
+}
+
+.dropdown {
+  font-size: 16px;
+  float: left;
+  width: 45%;
+}
+
+.fieldbox {
+  float: right;
+  width: 30%;
+}
+
+.label {
+  font-size: 16;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.circuit_img {
+  width: 100%;
+}
+
+.exp_controls {
+  width: 100%;
+}
+
+.above,
+.below {
+  margin: 20px;
+}
+
+.button {
+  margin-top: 20px;
+}

@@ -1,0 +1,22 @@
+.G_controls {
+  margin: 20px;
+}
+
+.titled {
+  padding-top: 5px;
+  font-size: 16px;
+  float: left;
+  margin-right: 20px;
+}
+
+.graph_controls_form {
+  display: block;
+}
+
+.graph {
+  margin-top: 20px;
+  width: 100%;
+  float: left;
+  padding-right: 30px;
+  height: 450px;
+}
